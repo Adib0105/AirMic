@@ -1,0 +1,15 @@
+{
+  "description": "Unencrypted header parsing vector; production audio sets encrypted=true.",
+  "magic": "AMIC",
+  "version": 1,
+  "flags": 0,
+  "headerLength": 32,
+  "sequence": 42,
+  "timestampMicros": 1725100000123456,
+  "sampleRate": 48000,
+  "sampleCount": 480,
+  "channels": 1,
+  "format": 1,
+  "sessionId": 305419896,
+  "headerHex": "414d4943010000200000002a000620f824b59a400000bb8001e0010112345678"
+}

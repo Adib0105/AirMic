@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+artifacts/
+TestResults/
+installer/output/
+windows/AirMic.Windows/appsettings.local.json
